@@ -3,6 +3,26 @@
 
 <!-- Github Stats -->
 
+<h3 align="center"> Github Stats </h3>
+<!--
+            &nbsp; -> space
+            &emsp; -> 4x(&nbsp;)
+-->
+<p align="left">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=srdo96&count_private=true&include_all_commits=true&theme=tokyonight" alt="Sakib's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdo96&layout=compact&theme=tokyonight" alt="Sakib's top language stats" />
+</p>
+
+<!--  -->
+<p align="center">
+  
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=srdo96&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
+    
+</p>
+
+<!-- Github Stats -->
+
+<!-- ###########################################  ########################################### -->
 <!-- ###########################################  ########################################### -->
 
 <!-- Important Projects -->
