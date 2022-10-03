@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**srdo96/srdo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Github Stats -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ###########################################  ########################################### -->
+
+<!-- Important Projects -->
+
+<h3 align="center"> Important Projects </h3>
+            
+<a href="https://github.com/srdo96/manufacturer-website-client-side">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdo96&repo=manufacturer-website-client-side&layout=compact&theme=tokyonight" />
+</a>
+            &emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/srdo96/manufacturer-website-server-side">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdo96&repo=manufacturer-website-server-side&layout=compact&theme=tokyonight" />
+</a>  
+<br/><br/><br/>
+<a href="https://github.com/srdo96/warehouse-management-website-client-side">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdo96&repo=warehouse-management-website-client-side&layout=compact&theme=tokyonight" />
+</a>  
+ &emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/srdo96/warehouse-management-website-server-side">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdo96&repo=warehouse-management-website-server-side&layout=compact&theme=tokyonight" />
+</a>  
+            
+</p>
+
+
+<!-- Important Projects -->
