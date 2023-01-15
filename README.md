@@ -1,54 +1,39 @@
 <!-- ### Hi there 👋 -->
+Hey there, it's Sakib from 🇧🇩
 
+I write code for fun. You can find me on:
 
-<!-- Github Stats -->
+[![](https://img.shields.io/badge/-sakib5-0A1A2F?style=flat&logo=linkedin)](https://www.linkedin.com/in/sakib5)
 
-<!--<h3 align="center"> Github Stats </h3>-->
-<!--
-            &nbsp; -> space
-            &emsp; -> 4x(&nbsp;)
--->
- <h1 align="center">Sakib Rahman </h1>
-           
-<!-- 
-<p align="left">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=srdo96&count_private=true&include_all_commits=true&theme=tokyonight" alt="Sakib's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdo96&layout=compact&theme=tokyonight" alt="Sakib's top language stats" />
-</p>
+---
+<h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
+
+- :dagger: &nbsp;Languages:&nbsp;
+  ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  
+- :shield: &nbsp;Data:&nbsp;
+  ![](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  
+- :crossed_swords: &nbsp;Libraries/Frameworks:&nbsp;
+  ![](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![](https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=tailwindcss)
+  ![](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=bootstrap)
+  ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
+  ![](https://img.shields.io/badge/-Express-0A1A2F?style=flat&logo=express)
+  
+- :bow_and_arrow: &nbsp;Miscellaneous:&nbsp;
+  ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![](https://img.shields.io/badge/-Env-0A1A2F?style=flat&logo=.env)
+  ![](https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=tailwindcss)
+  ![](https://img.shields.io/badge/-JWT-0A1A2F?style=flat&logo=JSONWebTokens)
+  ![](https://img.shields.io/badge/-vim-0A1A2F?style=flat&logo=vim)
+ ---
+💬 <b>Drop a mail:</b> <a href="mailto:sakib.rahman436@gmail.com" target="_blank"> sakib.rahman436@gmail.com</a>
+  
 
 <!--  -->
-<p align="center">
+<p>
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=srdo96&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
     
 </p> 
-
-<!-- Github Stats -->
-
-<!-- ###########################################  ########################################### -->
-<!-- ###########################################  ########################################### -->
-
-<!-- Important Projects -->
-
-<!-- <h3 align="center"> Important Projects </h3>
-            
-<a href="https://github.com/srdo96/manufacturer-website-client-side">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdo96&repo=manufacturer-website-client-side&layout=compact&theme=tokyonight" />
-</a>
-            &emsp;&emsp;&nbsp;&nbsp;
-<a href="https://github.com/srdo96/manufacturer-website-server-side">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdo96&repo=manufacturer-website-server-side&layout=compact&theme=tokyonight" />
-</a>  
-<br/><br/><br/>
-<a href="https://github.com/srdo96/warehouse-management-website-client-side">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdo96&repo=warehouse-management-website-client-side&layout=compact&theme=tokyonight" />
-</a>  
- &emsp;&emsp;&nbsp;&nbsp;
-<a href="https://github.com/srdo96/warehouse-management-website-server-side">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srdo96&repo=warehouse-management-website-server-side&layout=compact&theme=tokyonight" />
-</a>  
-            
-</p> -->
-
-
-<!-- Important Projects -->
