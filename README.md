@@ -24,7 +24,6 @@ I write code for fun. You can find me on:
 - :bow_and_arrow: &nbsp;Miscellaneous:&nbsp;
   ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![](https://img.shields.io/badge/-Env-0A1A2F?style=flat&logo=.env)
-  ![](https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=tailwindcss)
   ![](https://img.shields.io/badge/-JWT-0A1A2F?style=flat&logo=JSONWebTokens)
   ![](https://img.shields.io/badge/-vim-0A1A2F?style=flat&logo=vim)
  ---
