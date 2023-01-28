@@ -27,6 +27,8 @@ I write code for fun. You can find me on:
   ![](https://img.shields.io/badge/-Env-0A1A2F?style=flat&logo=.env)
   ![](https://img.shields.io/badge/-JWT-0A1A2F?style=flat&logo=JSONWebTokens)
   ![](https://img.shields.io/badge/-vim-0A1A2F?style=flat&logo=vim)
+- :zap: &nbsp;OS:&nbsp;
+  ![](https://img.shields.io/badge/-archLinux-0A1A2F?style=flat&logo=archlinux)
  ---
 💬 <b>Drop a mail:</b> <a href="mailto:sakib.rahman436@gmail.com" target="_blank"> sakib.rahman436@gmail.com</a>
   
