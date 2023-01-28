@@ -10,7 +10,8 @@ I write code for fun. You can find me on:
 
 - :dagger: &nbsp;Languages:&nbsp;
   ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  
+  ![](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
+
 - :shield: &nbsp;Data:&nbsp;
   ![](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
   
